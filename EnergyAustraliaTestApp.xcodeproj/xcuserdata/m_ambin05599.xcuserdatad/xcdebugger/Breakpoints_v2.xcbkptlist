@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "404DC26E-34E2-44BF-9BBB-A0F731E65B96"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B68D251-65BE-4908-A930-8523153778C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/WebService/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "WebService"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D670203-FCD9-435E-9324-0B25AD4D2ED1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/WebService/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getFestivals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D670203-FCD9-435E-9324-0B25AD4D2ED1 - f4fa875cdb2052de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.WebService.postUser() throws -&gt; __C.NSURLSession.DataTaskPublisher"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/WebService/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "8D670203-FCD9-435E-9324-0B25AD4D2ED1 - eba53911532581a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.WebService.fetchNotes() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;EnergyAustraliaTestApp.MusicFestival&gt;, Swift.Error&gt;"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/WebService/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5435FC1-EEC9-4CDB-AAD2-29D1173E4D14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getMusicFestivalList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "createFestivalView(festival:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - c52a31059f50992a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - c52a31059f50992a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - c52a31059f509974"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - c52a31059f509974"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - 725dedefec03bd61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "DA42993A-59AC-411A-BA3A-499DD5CDA6AF - 725dedefec03bd61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "createBandView(bands:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - 4146e285e3f8e7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - 4146e285e3f8e7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - 4146e285e3f8e7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - fe91cd15d326ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - fe91cd15d326ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - fe91cd15d326ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - fe91cd15d327109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "F89F9ACD-204C-4C03-B08A-B10EA0D43407 - fe91cd15d327109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "3920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E0C5100-D591-4326-BF62-AC8826A1AF24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E0C5100-D591-4326-BF62-AC8826A1AF24 - 6276ed625f4e7ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsViewModel.init() -&gt; EnergyAustraliaTestApp.FestivalsViewModel"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "8E0C5100-D591-4326-BF62-AC8826A1AF24 - 6276ed625f4e7ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsViewModel.init() -&gt; EnergyAustraliaTestApp.FestivalsViewModel"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "8E0C5100-D591-4326-BF62-AC8826A1AF24 - 6276ed625f4e7ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsViewModel.init() -&gt; EnergyAustraliaTestApp.FestivalsViewModel"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9472780B-7785-4269-A62F-08BC500580E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "createFestivalView(festival:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9472780B-7785-4269-A62F-08BC500580E3 - c52a31059f50980d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "9472780B-7785-4269-A62F-08BC500580E3 - c52a31059f50984f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "9472780B-7785-4269-A62F-08BC500580E3 - 725dedefec03bc3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt; in EnergyAustraliaTestApp.FestivalsView.createFestivalView(festival: EnergyAustraliaTestApp.MusicFestival) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E21AC2A7-EB21-4E1F-9BE5-BB5132634893"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getMusicFestivalList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56AABF9-96D9-4B08-952F-45852B123859"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B56AABF9-96D9-4B08-952F-45852B123859 - a0d037a3f8131e04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B56AABF9-96D9-4B08-952F-45852B123859 - a0d037a3f8131fb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B56AABF9-96D9-4B08-952F-45852B123859 - a0d037a3f8131e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E32A002B-DF68-441A-AA72-3026E495D817"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E32A002B-DF68-441A-AA72-3026E495D817 - a0d037a3f8131ea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "E32A002B-DF68-441A-AA72-3026E495D817 - a0d037a3f8131e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "E32A002B-DF68-441A-AA72-3026E495D817 - a0d037a3f8131e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;EnergyAustraliaTestApp.APIError&gt;) -&gt; () in EnergyAustraliaTestApp.FestivalsView.body.getter : some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89152D6A-8A68-4B55-8EDA-621D4AA96D33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getMusicFestivalList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7312D746-B173-4815-8AF9-6821F51D7D61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "createBandView(bands:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7312D746-B173-4815-8AF9-6821F51D7D61 - b161fdda622ed63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "7312D746-B173-4815-8AF9-6821F51D7D61 - b161fdda622ed63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsView.createBandView(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; some"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4808C779-B57C-4EC4-8B8B-A063F8E910E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestApp/FestivalsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "sortBands(bands:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4808C779-B57C-4EC4-8B8B-A063F8E910E4 - 378d9f231d2dee50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestApp.FestivalsViewModel.sortBands(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "4808C779-B57C-4EC4-8B8B-A063F8E910E4 - 3d712198f2c73b6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EnergyAustraliaTestApp.Band, EnergyAustraliaTestApp.Band) -&gt; Swift.Bool in EnergyAustraliaTestApp.FestivalsViewModel.sortBands(bands: Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;) -&gt; Swift.Array&lt;EnergyAustraliaTestApp.Band&gt;"
+                  moduleName = "EnergyAustraliaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestApp/FestivalsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BE0A10-D80F-47A7-94F0-C8DBAFE4FE96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestAppTests/EnergyAustraliaTestAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "test_sortBands()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58BE0A10-D80F-47A7-94F0-C8DBAFE4FE96 - a14901a92bd68d18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestAppTests.EnergyAustraliaTestAppTests.test_sortBands() -&gt; ()"
+                  moduleName = "EnergyAustraliaTestAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestAppTests/EnergyAustraliaTestAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "58BE0A10-D80F-47A7-94F0-C8DBAFE4FE96 - a14901a92bd68d56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EnergyAustraliaTestAppTests.EnergyAustraliaTestAppTests.test_sortBands() -&gt; ()"
+                  moduleName = "EnergyAustraliaTestAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05599/Desktop/EnergyAustraliaTestApp/EnergyAustraliaTestAppTests/EnergyAustraliaTestAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D66690A3-3B5D-4B18-B6DE-028A2C8BC820"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EnergyAustraliaTestAppTests/EnergyAustraliaTestAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "test_sortBands()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

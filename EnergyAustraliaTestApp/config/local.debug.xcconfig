@@ -1,0 +1,12 @@
+//
+//  local.debug.xcconfig
+//  EnergyAustraliaTestApp
+//
+//  Created by M_AMBIN05599 on 20/04/23.
+//  Added sample configs to control debug
+
+#include "env.xcconfig"
+
+CURRENT_PROJECT_VERSION = 1
+BACKEND_ENVIRONMENT= dev
+
